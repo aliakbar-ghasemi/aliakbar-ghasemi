@@ -1,16 +1,13 @@
 ## Bio
-<ul>
-  <li>Android developer with more than 7 years of experience</li>
-  <li>Web developer with vue framework with more than 2 years of experience</li>
-  <li>Ability to do multiple projects at the same time</li>
-  <li>Interested in learning new concepts</li>
-  <li>Ability to learn and switch to new languages ​​and architectures</li>
-  <li>Ability to work in a group or individually</li>
-</ul>
+- Android developer with more than 7 years of experience
+- Web developer with vue framework with more than 2 years of experience
+- Ability to do multiple projects at the same time
+- Interested in learning new concepts
+- Ability to learn and switch to new languages ​​and architectures
+- Ability to work in a group or individually
 
 ## Personal Details
 - Year of Birth : **1992**
-- Marital Status : **Married**
 - Location : **Iran**
 
 ## Contact Info
@@ -40,3 +37,9 @@
 
 ## Education
 - **Bachelor:** Information Technology Engineering: Urmia University of Technology (2011-2015)
+
+## Work Experience
+- Vue Developer(Quasar), Mepkotech
+- Android Developer & Vue Developer, Elmosanat
+- Android Developer, Mosbat
+- Android Developer, Comica
